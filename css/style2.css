@@ -36,11 +36,46 @@ li{
 	color: white;
 	border-radius: 12px;
 	font-family: 'Inconsolata', monospace;
-/*	margin-right: 130vh;*/
+  /*  padding-left: 100;*/
 }
 .p{
 	color: yellow;
 }
 .sen{
 	color: #32cd32;
+}
+.ou{
+	padding-top: 7vh;
+	padding-bottom: 3vh;
+}
+.o{
+	padding-bottom: 5vh;
+	font-size: 5vh;
+}
+.out{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	border-radius: 12px;
+	color: white;
+	background-color: black;
+	padding-left: 0.5vh;
+	font-family: 'Inconsolata', monospace;
+}
+.end{
+	padding-bottom: 3vh;
+	padding-top: 8vh;
+	text-align: center;
+}
+.but{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	padding-right: 3vh;
+	padding-left: 3vh;
+	font-size: 2.5vh;
+	border-radius: 12px;
+	border: none;
+    background-color: cyan;
+	opacity: 100%;
+	/*background-color: #E0FFFF;*/
+	background-color: yellow;
 }
