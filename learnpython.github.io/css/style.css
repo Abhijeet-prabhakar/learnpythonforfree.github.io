@@ -1,0 +1,34 @@
+*{padding: 0%;margin: 0%}
+.logo{
+	text-align: center;
+	font-size: 8vh;
+	padding-top: 5vh;
+}
+.mainlogo{
+	height: 25vh;
+	width: 25vh;
+	padding-bottom: 15vh;
+}
+.aboutus{
+	text-align: center;
+}
+/*.start{
+	padding-top: 5vh;
+}*/
+.buttontext1{
+	font-size: 8vh;
+	border-radius: 22px;
+	border: none;
+	padding: 5vh;
+}
+.aboutus{
+	padding-top: 22vh;
+	font-size: 4.5vh;
+	padding-bottom: 10vh;
+}
+h1{
+	padding-bottom: 10vh;
+}
+.copyright{
+	font-size: 8vh;
+}

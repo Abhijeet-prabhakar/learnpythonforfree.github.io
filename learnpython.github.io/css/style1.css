@@ -1,0 +1,79 @@
+*{margin: 0%;padding: 0%;}
+.headline1{
+	text-align: center;
+	font-size: 6vh;
+	padding-bottom: 8vh;
+	padding-top: 2vh;
+}
+.text1{
+	font-size: 4.5vh;
+	padding-bottom: 8vh;
+	text-align: center;
+	padding-top: 10vh;
+}
+.text2{
+	font-size: 6vh;
+	padding-bottom: 15vh;
+	text-align: center;
+}
+h3{
+	font-size: 4vh;
+	padding-bottom: 3.5vh;
+	padding-top: 3vh;
+}
+a{
+	font-size: 5vh;
+	padding-bottom: 1vh;
+}
+.vscode-download{
+	/*padding-top: 10vh;*/
+	padding-bottom: 10vh;
+}
+.python-download{
+	padding-top: 10vh;
+	padding-bottom: 5vh;
+}
+strong{
+	/*padding-bottom: 10vh;*/
+}
+.pydo{
+	padding-bottom: 5vh;
+}
+.downloads{
+	padding-left: 0.5vh;
+}
+.comd{
+	padding-bottom: 4vh;
+	padding-top: 5vh;
+}
+h4{
+	padding: 2.5vh;
+	font-family: 'Inconsolata', monospace;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+}
+.pip{
+	color: yellow;
+}
+.ms{
+	padding-left: 0.5vh;
+	text-align: center;
+	padding-bottom: 3vh;
+}
+.next1{
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 5vh;
+	padding-left: 2vh;
+	padding-right: 2vh;
+	/*text-align: center;*/
+	border-radius: 12px;
+	border: none;
+	background-color: yellow;
+/*	color: grey;*/
+}
+.next{
+	padding-bottom: 10vh;
+	text-align: center;
+}

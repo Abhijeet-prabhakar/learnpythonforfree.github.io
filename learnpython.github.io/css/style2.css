@@ -1,0 +1,46 @@
+*{margin: 0%;padding: 0%;}
+.heading{
+	font-size: 5vh;
+	text-align: center;
+	padding: 5vh;
+	padding-bottom: 10vh;
+}
+.dumblecture{
+	padding-left: 0.5vh;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+.about-string{
+	font-size: 5vh;
+	padding-bottom: 1.5vh;
+}
+li{
+	font-size: 3vh;
+}
+.hts{
+	padding-left: 0.5vh;
+	padding-top: 5vh;
+}
+.ss{
+	padding-bottom: 6vh;
+	font-size: 5vh;
+}
+.sy{
+	font-size: 5vh;
+	padding-bottom: 3.5vh;
+}
+.ps{
+	padding-bottom: 2.5vh;
+	padding-top: 2.5vh;
+	background-color: black;
+	color: white;
+	border-radius: 12px;
+	font-family: 'Inconsolata', monospace;
+/*	margin-right: 130vh;*/
+}
+.p{
+	color: yellow;
+}
+.sen{
+	color: #32cd32;
+}
