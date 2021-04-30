@@ -1,0 +1,53 @@
+*{margin: 0%;padding: 0%}
+.logo{
+	text-align: center;
+	text-shadow: currentColor;
+	padding-top: 2vh;
+	font-size: 8.5vh;
+	padding-bottom: 10vh;
+}
+.chap{
+	font-size: 10vh;
+	padding-bottom: 10vh;
+}
+.about{
+	padding-top: 20vh;
+	font-size: 4.2vh;
+}
+.ab{
+	font-size: 6.5vh;
+}
+.if{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	color: white;
+	background-color: black;
+	padding-left: 0.5vh;
+	font-family: 'Inconsolata', monospace;
+	border-radius: 6px;
+}
+.elif{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	color: white;
+	background-color: black;
+	padding-left: 0.5vh;
+	font-family: 'Inconsolata', monospace;
+	border-radius: 6px;
+}
+.else{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	color: white;
+	background-color: black;
+	padding-left: 0.5vh;
+	font-family: 'Inconsolata', monospace;
+	border-radius: 6px;
+}
+.code{
+	padding-top: 15vh;
+}
+.sy{
+	font-size: 7.5vh;
+	padding-bottom: 3vh;
+}

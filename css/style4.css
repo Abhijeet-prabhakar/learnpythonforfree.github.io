@@ -1,0 +1,75 @@
+*{margin: 0%;padding: 0%}
+/*body{
+	margin: 0%;
+	padding: 0%;
+}*/
+.tital{
+	text-align: center;
+	font-size: 10vh;
+	padding-top: 3vh;
+	padding-bottom: 10vh;
+}
+.about{
+	padding-top: 10vh;
+	font-size: 3vh;
+}
+.ti{
+	font-size: 6vh;
+	padding-bottom: 1.5vh;
+}
+.sy{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.ou{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.ex{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.ou1{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.ou2{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.last{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+	text-align: center;
+}
+.a{
+	padding-bottom: 3vh;
+}
+h3{
+	padding-bottom: 2.5vh;
+	padding-top: 2.5vh;
+	background-color: black;
+	color: white;
+	font-family: 'Inconsolata', monospace;
+	border-radius: 2.5px;
+}
+.wh{
+	color: black;
+	background-color: white;
+}
+button{
+	font-size: 6vh;
+	padding: 2.5vh;
+	border-radius: 12px;
+	border: none;
+	background-color: yellow;
+}
+.input{
+	color: yellow;
+}
+.variable{
+	color: red;
+}
+.text{
+	color: green;
+}
