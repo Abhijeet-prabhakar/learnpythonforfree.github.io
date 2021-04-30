@@ -1,0 +1,57 @@
+*{margin: 0%;padding: 0%}
+.cn{
+	text-align: center;
+	padding-top: 3vh;
+	font-size: 8vh;
+	padding-bottom: 10vh;
+}
+body{
+	padding-left: 0.8vh;
+}
+.ab{
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+	font-size: 3.5vh;
+}
+.dio{
+	font-size: 5vh;
+	padding-bottom: 3vh;
+	padding-top: 3vh;
+}
+h3{
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	font-family: 'Inconsolata', monospace;
+	padding: 1vh;
+}
+.v{
+	color: #FF0000;
+}
+.p{
+	color: green;
+}
+.wq{
+	border-radius: 12px;
+}
+.last{
+	padding-bottom: 8vh;
+	padding-top: 5vh;
+}
+.alast{
+	text-align: center;
+}
+.butt{
+	font-size: 5vh;
+	/*padding-top: 1.5;
+	padding-bottom: 1.5;
+	padding-left: 5;
+	padding-right: 5;*/
+}
+button{
+	height: 8vh;
+	border-radius: 12px;
+	border: none;
+	width: 20vh;
+	background-color: yellow;
+}
