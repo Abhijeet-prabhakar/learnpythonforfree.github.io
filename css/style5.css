@@ -89,3 +89,18 @@
 .goo{
 	color: lime;
 }
+.goodday{
+	font-family: 'Inconsolata', monospace;
+}
+.las{
+	padding-top: 10vh;
+	text-align: center;
+	padding-bottom: 2vh;
+}
+.ne{
+	padding: 1.5vh;
+	font-size: 5vh;
+	border-radius: 12px;
+	border: none;
+	background-color: yellow;
+}
