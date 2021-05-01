@@ -46,8 +46,46 @@
 }
 .code{
 	padding-top: 15vh;
+	padding-bottom: 5vh;
 }
 .sy{
 	font-size: 7.5vh;
 	padding-bottom: 3vh;
+}
+.i{
+	font-family: 'Inconsolata', monospace;
+	color: red;
+	background-color: black;
+	padding: 2vh;
+	border-radius: 5px;
+}
+.a{
+	font-family: 'Inconsolata', monospace;
+	background-color: black;
+	color: green;
+	padding: 2vh;
+	border-radius: 5px;
+}
+.ex{
+	font-family: 'Inconsolata', monospace;
+	background-color: black;
+	color: white;
+	padding: 2.5vh;
+	border-radius: 5px;
+	padding-left: 1vh;
+}
+.ef{
+	color: yellow;
+}
+.con{
+	color: green;
+}
+.func{
+	color: orange;
+}
+.vari{
+	color: red;
+}
+.goo{
+	color: lime;
 }
