@@ -1,0 +1,60 @@
+*{margin: 0%;padding: 0%}
+.about{
+	padding-top: 10vh;
+}
+.chap{
+	padding-top: 3vh;
+	padding-bottom: 7.5vh;
+	text-align: center;
+	font-size: 5vh;
+}
+.abo{
+	font-size: 5vh;
+}
+.tanya{
+	font-size: 8vh;
+}
+li{
+	font-size: 3vh;
+}
+.mds{
+	padding-top: 10vh;
+}
+.sy{
+	padding-bottom: 5vh;
+	font-size: 5vh;
+}
+.impo{
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+	color: white;
+	background-color: black;
+	border-radius: 8px;
+	font-family: 'Inconsolata', monospace;
+}
+.imp{
+	color: yellow;
+}
+.ls{
+	text-align: center;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.du{
+	padding-top: 2vh;
+	font-size: 2vh;
+	padding-bottom: 5vh;
+}
+.butt{
+	padding-top: 1.5vh;
+	padding-bottom: 1.5vh;
+	padding-left: 2.5vh;
+	padding-right: 2.5vh;
+	border-radius: 8px;
+	border: none;
+	background-color: yellow;
+	font-size: 5vh;
+}
+.lse{
+	padding-bottom: 2vh;
+}
